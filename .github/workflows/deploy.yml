@@ -42,4 +42,3 @@ jobs:
           script_stop: true
           script: |
             java -jar *.jar
-            
